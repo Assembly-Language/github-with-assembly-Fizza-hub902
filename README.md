@@ -15,6 +15,7 @@ remarks about sum-even
 In this we find the sum of even numbers
 We find the total of all even numbers
 we find the sum of even numbers by checking least significant bit
+we used loop jump and test commands to find sum
 
 
 
@@ -26,7 +27,7 @@ we have to go through the commands how to find the sum of odd numbers
 remarks about sum-pos
 in this task we calculated the sum of positive numbers
 we used loop,jump and test command simultaneously to find sum
-we calcculated the sum
+we calculated the sum
 
 
 Overall remarks
